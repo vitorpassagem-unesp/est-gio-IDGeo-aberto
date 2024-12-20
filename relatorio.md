@@ -8,7 +8,7 @@ Criar um Chatbot inteligente integrado ao banco de dados da IDGeo, onde um usuá
 
 Tomamos uma abordagem onde criamos 3 princiais funções, que posteriormente adicionaremos a uma função maior.
 
-![Chart]([https://github.com/user-attachments/assets/0639f702-5572-4235-8731-21c8eb886be2])
+![Chart](https://github.com/vitorpassagem-unesp/est-gio-IDGeo-aberto/blob/main/chart%20ex%20idgeo.jpg?raw=true)
 
 ### Tradutor (Linguagem Natural - SQL)
 
